@@ -18,7 +18,7 @@ my_scanf accepts these formats:
 * %p - Point structure (x, y)
 ```
 
-Returns number of succesfully retrieved from input
+Returns number succesfully retrieved from input
 
 Example of execution:
 ```
